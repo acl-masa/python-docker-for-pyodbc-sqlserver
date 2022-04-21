@@ -1,6 +1,6 @@
-# python-docker-for-pyodbc-msodbcsql
+# python-docker-for-pyodbc-sqlserver
 
-https://hub.docker.com/r/masaiborg/python-for-pyodbc-msodbcsql
+https://hub.docker.com/r/cymagix/python-for-pyodbc-sqlserver
 
 Docker image to deploy apps on Python 3.9.10, using pyodbc 4.0.32 and Driver 17 for MS SQL Server®.
 
