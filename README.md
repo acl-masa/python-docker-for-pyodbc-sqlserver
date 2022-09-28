@@ -2,7 +2,7 @@
 
 https://hub.docker.com/r/cymagix/python-for-pyodbc-sqlserver
 
-Docker image to deploy apps on Python 3.9.10, using pyodbc 4.0.32 and Driver 17 for MS SQL Server®.
+Docker image to deploy apps on Python 3.9.10, using pyodbc 4.0.32 and ODBC Driver 17 for MS SQL Server®.
 
 ## Elements
 
@@ -11,7 +11,7 @@ Uses official image [Python 3.9.10-buster](https://hub.docker.com/_/python/)
 - Debian 10.0 (Buster)
 - Python 3.9.10
 - [Pyodbc 4.0.32](https://pypi.org/project/pyodbc/4.0.32/)
-- Microsoft® ODBC SQL Server® 17 Driver
+- [Microsoft® ODBC SQL Server® 17 Driver](https://learn.microsoft.com/en-us/sql/connect/odbc/download-odbc-driver-for-sql-server?view=sql-server-ver16#version-17)
 
 ## Usage
 
